@@ -1,4 +1,7 @@
 * { padding: 0; margin: 0; }
+html {
+  font-family: "Trirong", Arial, Helvetica, sans-serif;
+}	
 body {
 	border: 1px dotted black;
 	max-width: 1462px;
@@ -64,5 +67,20 @@ footer {
 	clear: both;
 }
 a {
-	color: #6699ff;
+	color: #06f;
+}
+main h2 {
+	margin-bottom: 10px;
+}
+main p {
+	margin-bottom: 10px;
+}
+main ol {
+	margin-bottom: 10px;
+}
+main li {
+	margin-left: 50px;
+}
+main img {
+	margin-bottom: 10px;
 }
